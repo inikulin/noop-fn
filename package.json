@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "It's noop function. It does nothing.",
   "main": "index.js",
+	"types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/inikulin/noop-fn.git"
